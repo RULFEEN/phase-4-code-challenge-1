@@ -30,6 +30,7 @@ gem "tzinfo-data"
 
 # gem "psych", "< 4"
 # gem "wdm", ">= 0.1.0"
+gem 'active_model_serializers'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
